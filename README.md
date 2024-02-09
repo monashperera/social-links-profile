@@ -24,7 +24,7 @@ Mobile Preview
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://monashperera.github.io/social-links-profile/](https://monashperera.github.io/social-links-profile/)
 
 ## My process
 
